@@ -21,8 +21,8 @@ I'm a hardworking and dedicated person, always curious about new knowledge.
 
  ## CERTIFICATIONS
 
-• <a href="https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments" target="_blank">PROFESSIONAL SCRUM MASTER I</a>
-• <a href="https://www.scrum.org/professional-scrum-product-owner-certifications" target="_blank">PROFESSIONAL SCRUM PRODUCT OWNER I</a>
+• <a href="https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments" target="_blank">PROFESSIONAL SCRUM MASTER I</a>\
+• <a href="https://www.scrum.org/professional-scrum-product-owner-certifications" target="_blank">PROFESSIONAL SCRUM PRODUCT OWNER I</a>\
 • <a href="https://www.credly.com/badges/f08bb0bb-9444-4379-b98d-6f1ba0868213?source=linked_in_profile" target="_blank">SAFe® 5 Agilist</a>
 
 <br/>
