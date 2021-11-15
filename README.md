@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/pelletierantoine/pelletierantoine/master/content/pelletierantoine.png"></h2>
 
-## ABOUT ME
+## OVER VIEW
 
-- I'm an Android senior developer 
+Hello i'm Antoine PELLETIER, an Android senior developer with over five years of exclusive experience in Android application development.
+I'm a hardworking and dedicated person, always curious about new knowledge.
 
 
 # SKILLS
@@ -10,17 +11,19 @@
  ## TECH STACK
   
       • Kotlin / Java
-      • 
-      • 
-      • 
+      • Architecture : Clean Architecture, MVVM, MVI
+      • Data Base: Room, Realm
+      • Asynchonous: RxJava, Coroutine
+      • Network: Retrofit
+      • Dependency injection: Koin, Dagger
       
 <br/>
 
  ## CERTIFICATIONS
 
-      • PROJECT OWNER I 
-      • SCRUM MASTER I 
-      • SAFE LEAD 5 
+      • <a href="https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments" target="_blank">PROFESSIONAL SCRUM MASTER I</a>
+      • <a href="https://www.scrum.org/professional-scrum-product-owner-certifications" target="_blank">PROFESSIONAL SCRUM PRODUCT OWNER I</a>
+      • <a href="https://www.credly.com/badges/f08bb0bb-9444-4379-b98d-6f1ba0868213?source=linked_in_profile" target="_blank">SAFe® 5 Agilist</a>
 
 <br/>
 
