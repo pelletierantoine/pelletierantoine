@@ -37,7 +37,10 @@ Please feel free to get in touch, I'll be happy to help !
 <a href="https://github.com/pelletierantoine" target="_blank"><img src="https://raw.githubusercontent.com/pelletierantoine/pelletierantoine/master/content/git.png" alt="GitHub" width="30"></a>
 <a href="https://github.com/pelletierantoine" target="_blank"><img src="https://raw.githubusercontent.com/pelletierantoine/pelletierantoine/master/content/www.png" alt="Website" width="30"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pelletierantoine&color=brightgreen" alt="pelletierantoine" /> </p>
+
+![Pelletier Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=pelletierantoine&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelletierantoine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pelletierantoine&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelletierantoine&theme=merko&layout=compact&hide_langs_below=1" /></p>
+
