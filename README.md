@@ -11,11 +11,11 @@ I'm a hardworking and dedicated person, always curious about new knowledge.
  ## TECH STACK
   
       • Kotlin / Java
-      • Architecture : Clean Architecture, MVVM, MVI
+      • Architecture : Clean Architecture, MVVM, MVI, MVP
       • Data Base: Room, Realm
-      • Asynchonous: RxJava, Coroutine
+      • Asynchonous: RxJava, Coroutine, flows
       • Network: Retrofit
-      • Dependency injection: Koin, Dagger
+      • Dependency injection: Hilt, Koin, Dagger
       
 <br/>
 
